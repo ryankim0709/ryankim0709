@@ -1,11 +1,12 @@
 ## Hello, I'm Ryan Kim! 👋
 <br/>
-Welcome! I am a 9th grader attending Palo Alto High School. I am a competative programmer and learning how to develop apps and websites using **react-native** and **react**. 
-
+Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps and websites using <strong>react-native</strong> and <strong>react</strong> and solving algorithmic problems using <strong>Java</strong>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryankim0709&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryankim0709&label=Views&color=blue&style=plastic" alt="ryankim" /> </p>
+
+[![GitHub ryan](https://img.shields.io/github/followers/ryankim0709?label=follow&style=social)](https://github.com/ryankim0709)
 
 <a href="https://github.com/ryankim0709" target = "_blank">
   <img align="left" alt="Ryan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -21,14 +22,16 @@ Welcome! I am a 9th grader attending Palo Alto High School. I am a competative p
 </a>
 
 <br/>
-<br/>
 
-
+**About Me**
 - 9th grade attending [Palo Alto High School](https://www.paly.net/)
 - Competative Programmer and Website/App Developer
 - 📫 How to reach me: **Gmail - ryankim0709@gmail.com** , **Discord - ancer#1462**
 
-[![GitHub ryan](https://img.shields.io/github/followers/ryankim0709?label=follow&style=social)](https://github.com/ryankim0709)
+**Goals**
+- Learn **machine learning** and **AI** using **Python** <img height = "15px" src ="https://user-images.githubusercontent.com/80545744/148113414-9cfd9dd4-a957-4619-8601-5daea1088f86.png"/>
+- Learn **c++** for competative programming
+- Learn how to use different **libraries** to create more elegant websites and apps
 
 
 **Languages and Tools:**  
