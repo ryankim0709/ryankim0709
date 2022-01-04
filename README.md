@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryankim0709&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://github.com/ryankim0709" target = "blank">
+<a href="https://github.com/ryankim0709" target = "_blank">
   <img align="left" alt="Ryan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/imthepk">
