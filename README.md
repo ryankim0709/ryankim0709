@@ -11,7 +11,7 @@
 <!-- <a href="https://www.facebook.com/">
   <img align="left" alt="Ryan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> -->
-<a href="https://www.youtube.com/ryankim0709">
+<a href="https://www.youtube.com/channel/UCqidHmW4tnCELDMTbChX2Hg">
   <img align="left" alt="Ryan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
