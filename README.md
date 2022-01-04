@@ -1,6 +1,6 @@
 ## Hello, I'm Ryan Kim! 👋
 <br/>
-Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps and websites using <strong>react-native</strong> and <strong>react</strong> and solving algorithmic problems using <strong>Java</strong>
+Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps and websites using <strong>react-native</strong> and <strong>react</strong>. I enjoy solving algorithmic problems using <strong>Java</strong>.
 
 ---
 
@@ -30,7 +30,7 @@ Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps
 
 **Goals**
 - Learn **machine learning** and **AI** using **Python** <img height = "15px" src ="https://user-images.githubusercontent.com/80545744/148113414-9cfd9dd4-a957-4619-8601-5daea1088f86.png"/>
-- Learn **c++** for competative programming
+- Learn **c++** for competitive programming
 - Learn how to use different **libraries** to create more elegant websites and apps
 
 
