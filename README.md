@@ -1,4 +1,4 @@
-## Hola, I'm Ryan Kim! 👋
+## Hello, I'm Ryan Kim! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryankim0709&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -20,7 +20,7 @@
 
 
 - 9th grade attending [Palo Alto High School](https://www.paly.net/)
-- Competative Programmer and Developer
+- Competative Programmer and Website/App Developer
 - 📫 How to reach me: **Gmail - ryankim0709@gmail.com** , **Discord - ancer#1462**
 
 [![GitHub iampawan](https://img.shields.io/github/followers/ryankim0709?label=follow&style=social)](https://github.com/ryankim0709)
