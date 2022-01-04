@@ -1,4 +1,9 @@
 ## Hello, I'm Ryan Kim! 👋
+<br/>
+Welcome! I am a 9th grader attending Palo Alto High School. I am a competative programmer and learning how to develop apps and websites using **react-native** and **react**. 
+
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryankim0709&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -23,7 +28,7 @@
 - Competative Programmer and Website/App Developer
 - 📫 How to reach me: **Gmail - ryankim0709@gmail.com** , **Discord - ancer#1462**
 
-[![GitHub iampawan](https://img.shields.io/github/followers/ryankim0709?label=follow&style=social)](https://github.com/ryankim0709)
+[![GitHub ryan](https://img.shields.io/github/followers/ryankim0709?label=follow&style=social)](https://github.com/ryankim0709)
 
 
 **Languages and Tools:**  
