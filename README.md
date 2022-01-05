@@ -22,6 +22,7 @@ Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps
 </a>
 
 <br/>
+<br/>
 
 **About Me**
 - 9th grade attending [Palo Alto High School](https://www.paly.net/)
