@@ -26,7 +26,7 @@ Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps
 
 **About Me**
 - 9th grade attending [Palo Alto High School](https://www.paly.net/)
-- Competative Programmer and Website/App Developer
+- Competitive Programmer and Website/App Developer
 - 📫 How to reach me: **Gmail - ryankim0709@gmail.com** , **Discord - ancer#1462**
 
 **Goals**
