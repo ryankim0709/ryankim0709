@@ -27,13 +27,17 @@ Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps
 **About Me**
 - 9th grade attending [Palo Alto High School](https://www.paly.net/)
 - Competitive Programmer and Website/App Developer
-- 📫 How to reach me: **Gmail - ryankim0709@gmail.com** , **Discord - ancer#1462**
+- How to reach me: **Gmail - ryankim0709@gmail.com** , **Discord - ancer#1462**
+
+**Ongoing Projects**
+- Improving RecyBuddy
+- USACO studying
+- Learning more about react, redux, and material UI
+- Learning **machine learning** and **AI** using **Python**!
 
 **Goals**
-- Learn **machine learning** and **AI** using **Python** <img height = "15px" src ="https://user-images.githubusercontent.com/80545744/148113414-9cfd9dd4-a957-4619-8601-5daea1088f86.png"/>
 - Learn **c++** for competitive programming
 - Learn how to use different **libraries** to create more elegant websites and apps
-
 
 **Languages and Tools:**  
 
