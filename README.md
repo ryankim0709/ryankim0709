@@ -1,6 +1,6 @@
 ## Hello, I'm Ryan Kim! 👋
 <br/>
-Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps and websites using <strong>react-native</strong> and <strong>react</strong>. I enjoy solving algorithmic problems using <strong>Java</strong>.
+Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps and websites using <strong>react-native</strong> and <strong>react</strong>. I enjoy solving algorithmic problems using <strong>Java</strong> and <strong>C++</strong>.
 
 ---
 
@@ -30,13 +30,12 @@ Welcome! I am a 9th grader attending Palo Alto High School. I love creating apps
 - How to reach me: **Gmail - ryankim0709@gmail.com** , **Discord - ancer#1462**
 
 **Ongoing Projects**
-- Improving RecyBuddy
 - USACO studying
 - Learning more about react, redux, and material UI
 - Learning **machine learning** and **AI** using **Python**!
+- Learning and mastering **TailwindCSS** for elegant websites and apps
 
 **Goals**
-- Learn **c++** for competitive programming
 - Learn how to use different **libraries** to create more elegant websites and apps
 
 **Languages and Tools:**  
