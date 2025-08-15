@@ -31,6 +31,7 @@
 ### 🌐 Connect with Me
 - 📸 Instagram: [@ryankim0709](https://instagram.com/ryankim0709)  
 - 💼 LinkedIn: [linkedin.com/in/rkim0709](https://linkedin.com/in/rkim0709)  
+- ✉️ Email: [ryankim1@berkeley.edu](mailto:ryankim1@berkeley.edu)
 
 ---
 
