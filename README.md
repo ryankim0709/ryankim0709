@@ -1,6 +1,6 @@
 # Hi, I'm Ryan 👋  
 
-🎓 Incoming **UC Berkeley EECS** freshman (Class of 2029)  
+🎓 **UC Berkeley EECS** freshman (Expected class of 2028)  
 💻 Interested in **Python** and **AI/ML** applications  
 🏃‍♂️ Half marathon runner & long-distance enthusiast  
 
