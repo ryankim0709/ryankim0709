@@ -18,8 +18,6 @@ Software for datacenter operations. **Software Engineer (Part-Time):** Mar.–Ma
 
 ### Projects
 
-- **Doodlr — AI Tutoring Platform:** Built a LiveKit/Deepgram tutor that pairs streamed drawing updates with spoken explanations and uses students' existing whiteboard work as context. Built Django APIs for session access and recording, and deployed containerized services on ECS Fargate with Terraform.
-- **Duedi — Real Estate Due Diligence:** Built a React/TypeScript and Django platform that links report findings to source passages. Its LangGraph workflow retrieves cross-document evidence, validates quotes against OCR text, and retains unresolved risks when evidence is conflicting or incomplete.
 - **AI Marketing Data Pipeline:** Built a service that converted roofing job photos and videos into marketing scripts using FFmpeg, Deepgram, and LLMs; earned **$650/month from one paying customer** while active (Dec. 2025–May 2026).
 
 ## Engineering focus
