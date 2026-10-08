@@ -20,12 +20,6 @@ Software for datacenter operations. **Software Engineer (Part-Time):** Mar.–Ma
 
 - **AI Marketing Data Pipeline:** Built a service that converted roofing job photos and videos into marketing scripts using FFmpeg, Deepgram, and LLMs; earned **$650/month from one paying customer** while active (Dec. 2025–May 2026).
 
-## Engineering focus
-
-- **Tenant isolation and support access:** Single-use impersonation links, organization-scoped sessions, and access controls across HTTP, WebSockets, and AI-agent calls, backed by PostgreSQL row-level security and audit logging.
-- **Authentication and provisioning:** Shared Microsoft SSO with email-based tenant routing, replacing per-tenant, per-environment SAML setup; unified three provisioning workflows into one endpoint using Keycloak/OIDC.
-- **Database workloads:** Batched and paced millions of operations during organization deletions, keeping database CPU at roughly 40% or below to preserve capacity for other services.
-
 Most of my recent work is in private company and startup repositories. I am happy to discuss the architecture, tradeoffs, and team attribution behind the work above.
 
 ## Core technologies
