@@ -8,23 +8,34 @@ I build full-stack products and applied-AI systems with Python, TypeScript, Reac
 
 ## Selected work
 
-- **Datacenter operations platform — Teserac AI:** One of the top three contributors by commit count, with 227 PRs merged and 204 code reviews in six months. I own systems spanning interactive power-topology diagrams, work orders, auth/SSO, AI chat integration, and asynchronous data deletion.
-- **AR field-service app — sole engineer:** Built a Kotlin/Jetpack Compose app for RayNeo smart glasses with on-prem NVIDIA Orin speech recognition, on-device segmentation, WebRTC remote assistance, and offline-first sync.
-- **Document intelligence and AI products:** Built the backend, frontend, and AWS infrastructure for a real-estate due-diligence product; co-built and deployed an AI tutoring platform; and independently shipped a video-to-marketing pipeline that reached **$650/month in recurring revenue**.
+### Teserac AI
+
+Software for datacenter operations. **Software Engineer (Part-Time):** Mar.–May 2026; Aug. 2026–Present. **Software Engineering Intern:** May–Aug. 2026.
+
+- **Internal tooling:** Built the superadmin portal as primary engineer using React/TypeScript and Django, centralizing support, tenant provisioning, and AI configuration across four environments; deployed on ECS Fargate with Terraform.
+- **Performance:** Cut combined layout-computation and API-response time for 1,000-component datacenter power diagrams from **1,886 ms to 125 ms** through position caching; sped up uncached requests by **4.5×**.
+- **Mobile:** Shipped a React Native field app to **10 internal users via TestFlight**, with interruptible voice responses and shared authentication across web and mobile.
+
+### Projects
+
+- **Doodlr — AI Tutoring Platform:** Built a LiveKit/Deepgram tutor that pairs streamed drawing updates with spoken explanations and uses students' existing whiteboard work as context. Built Django APIs for session access and recording, and deployed containerized services on ECS Fargate with Terraform.
+- **Duedi — Real Estate Due Diligence:** Built a React/TypeScript and Django platform that links report findings to source passages. Its LangGraph workflow retrieves cross-document evidence, validates quotes against OCR text, and retains unresolved risks when evidence is conflicting or incomplete.
+- **AI Marketing Data Pipeline:** Built a service that converted roofing job photos and videos into marketing scripts using FFmpeg, Deepgram, and LLMs; earned **$650/month from one paying customer** while active (Dec. 2025–May 2026).
 
 ## Engineering focus
 
-- Reliable AI pipelines: grounded citations, prompt-injection boundaries, deterministic document processing, and evaluations
-- Production systems: concurrent editing, stable graph layout, background jobs, observability, and secure OIDC sessions
-- End-to-end delivery: React and React Native clients, Django APIs, PostgreSQL, Docker, Terraform, CI/CD, and AWS
+- **Tenant isolation and support access:** Single-use impersonation links, organization-scoped sessions, and access controls across HTTP, WebSockets, and AI-agent calls, backed by PostgreSQL row-level security and audit logging.
+- **Authentication and provisioning:** Shared Microsoft SSO with email-based tenant routing, replacing per-tenant, per-environment SAML setup; unified three provisioning workflows into one endpoint using Keycloak/OIDC.
+- **Database workloads:** Batched and paced millions of operations during organization deletions, keeping database CPU at roughly 40% or below to preserve capacity for other services.
 
-Most of my recent work is in private company and startup repositories. In 2026, I have merged **~1,350 commits across 15 private repos**, opened 536 PRs, and contributed 206 code reviews. I am happy to discuss the architecture, tradeoffs, and team attribution behind any item above.
+Most of my recent work is in private company and startup repositories. I am happy to discuss the architecture, tradeoffs, and team attribution behind the work above.
 
 ## Core technologies
 
-- **Languages:** Python, TypeScript, Kotlin, Swift, SQL
-- **Application:** Django REST Framework, React, React Native, Jetpack Compose, Celery, PostgreSQL, Redis
-- **Infrastructure & AI:** AWS, Terraform, Docker, OIDC/Keycloak, LiveKit/WebRTC, NVIDIA Orin
+- **Languages:** Python, TypeScript, Kotlin, Java, C, SQL
+- **Backend & Data:** Django REST Framework, FastAPI, LangGraph, Celery, PostgreSQL, Redis
+- **Frontend & Mobile:** React, React Native
+- **Infrastructure & Testing:** Docker, AWS, Terraform, GitHub Actions, pytest
 
 ## Contact
 
